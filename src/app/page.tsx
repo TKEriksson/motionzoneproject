@@ -1,3 +1,12 @@
 export default function Page() {
-  return <>MotionZone!</>;
+  return (
+    <div className="w-full">
+      <div className="mx-auto w-200 text-center mt-0">
+        <div className="animate-bounce text-6xl">💃🏻🕺🏽</div> MotionZone
+        dansstudio
+        <br />
+        <div className="mx-auto w-20 h-20 rounded-full border-8 border-purple-500 border-t-pink-400 animate-spin"></div>
+      </div>
+    </div>
+  );
 }
