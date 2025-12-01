@@ -1,7 +1,7 @@
 export default function Page() {
   return (
     <div className="w-full">
-      <div className="mx-auto w-200 text-center mt-0">
+      <div className="mx-auto text-center mt-0">
         <div className="animate-bounce text-6xl">💃🏻🕺🏽</div> MotionZone
         dansstudio
         <br />
