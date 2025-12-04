@@ -1,3 +1,3 @@
 export default function Page() {
-  return <>Profilsida för student</>;
+  return <div>Profilsida för student</div>;
 }

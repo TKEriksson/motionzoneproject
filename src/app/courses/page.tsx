@@ -1,3 +1,3 @@
 export default function Page() {
-  return <>Kurser och paket</>;
+  return <div>Kurser och paket</div>;
 }
