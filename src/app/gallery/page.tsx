@@ -1,3 +1,3 @@
 export default function Page() {
-  return <>Instragramflöde eller vad vi nu vill visa här</>;
+  return <div>Instragramflöde eller vad vi nu vill visa här</div>;
 }

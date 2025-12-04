@@ -1,3 +1,3 @@
 export default function Page() {
-  return <>Om lärarna, danserna och studion</>;
+  return <div>Om lärarna, danserna och studion</div>;
 }
