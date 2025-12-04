@@ -1,4 +1,3 @@
-import Image from "next/image";
 import Link from "next/link";
 
 export default function NavBar() {
@@ -46,7 +45,10 @@ export default function NavBar() {
             <span className="text-sm">Varukorg 🛒</span>
           </Link>
           <Link href="/user">
-            <button className="bg-purple-600 text-white px-3 py-1 rounded hover:bg-purple-700">
+            <button
+              type="button"
+              className="bg-purple-600 text-white px-3 py-1 rounded hover:bg-purple-700"
+            >
               Logga in
             </button>
           </Link>
